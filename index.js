@@ -13,3 +13,5 @@
 "blog_domain_regex":"^[A-Za-zd][A-Za-zd-]{0,61}[A-Za-zd].(com|net|org|info)$"
 
 "name_regex":"[@]"
+
+//examples copied from inspecting learn.co 
